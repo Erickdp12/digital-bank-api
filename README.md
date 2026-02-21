@@ -37,6 +37,26 @@ Body JSON:
   "holderName": "Erick"
 }
 
+Listar Contas
+GET /accounts
+
+Consultar Saldo
+GET /accounts/{id}/balance
+
+Depositar
+POST /accounts/{id}/deposit?amount=100
+
+Banco de Dados
+
+Este projeto utiliza o H2 em memória.
+
+Você pode acessar o console H2:
+
+http://localhost:8080/h2-console
+
+JDBC URL:
+
+jdbc:h2:mem:testdb
 
 
 ### 🆕 Criar Conta
