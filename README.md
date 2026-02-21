@@ -27,8 +27,9 @@ Este projeto foi desenvolvido com:
 
 ## 📦 Estrutura de Endpoints
 
-POST /accounts
 
+Criar Conta
+POST /accounts
 
 Body JSON:
 
@@ -59,4 +60,4 @@ JDBC URL:
 jdbc:h2:mem:testdb
 
 
-### 🆕 Criar Conta
+
