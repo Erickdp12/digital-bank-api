@@ -7,7 +7,6 @@ Este projeto permite:
 ✅ Criar contas  
 ✅ Consultar saldo  
 ✅ Depositar  
-✅ (Você pode adicionar mais funcionalidades depois)
 
 ---
 
